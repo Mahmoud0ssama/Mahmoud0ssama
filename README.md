@@ -5,4 +5,4 @@ I'm a passionate electronics and communication engineer with a strong interest i
 
 I'm always looking for opportunities to collaborate with like-minded individuals and contribute to exciting new projects. If you're interested in working together or have any questions, feel free to reach out!
 
-reach me on mahmoud02505@gmail.com
+For contact: mahmoud02505@gmail.com
