@@ -52,7 +52,6 @@
 </p>
 
 ---
-<br/>
 
 ## 🤝 Let's Connect
 
@@ -64,8 +63,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=120&section=footer" width="100%"/>
