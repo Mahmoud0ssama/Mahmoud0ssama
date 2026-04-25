@@ -68,9 +68,5 @@
 ---
 
 <div align="center">
-  <h3> :coffee: Fueled by coffee ☕</h3>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=120&section=footer" width="100%"/>
 </div>
