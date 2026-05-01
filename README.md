@@ -43,8 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## 📡 Mobile Packages & Telecom Systems
-
+### 📡 Telecom Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/GSM-1E90FF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/UMTS-1E1E1E?style=for-the-badge&logoColor=white"/>
