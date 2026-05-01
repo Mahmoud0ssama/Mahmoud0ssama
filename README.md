@@ -43,6 +43,15 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+## 📡 Mobile Packages & Telecom Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSM-1E90FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UMTS-1E1E1E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LTE-4CAF50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/5G-000000?style=for-the-badge&logoColor=white"/>
+</p>
+
 ### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -50,6 +59,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
 
 ---
 
